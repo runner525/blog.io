@@ -4,7 +4,7 @@ title: 经济学通识-读书笔记
 date: 2018-3-17
 categories: blog
 tags: [经济,笔记]
-description: 记录读书中的一些精髓及感受和思考。
+description: 记录读书中的一些精髓及感受和思考
 ---
 
 # <center>经济学通识-读书笔记 #
